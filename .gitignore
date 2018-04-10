@@ -1,0 +1,6 @@
+.stack-work/
+gilded-rose.cabal
+*~
+/.idea/
+/out/
+/gilded-rose.iml
